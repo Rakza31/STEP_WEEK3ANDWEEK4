@@ -1,5 +1,5 @@
 //Risk Threshold Binary Lookup
-public class main {
+public class RiskThresholdSearch {
 
     public static int floor(int[] sorted, int target) {
         int low = 0, high = sorted.length - 1;
